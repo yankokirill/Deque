@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kirill/CLionProjects/Deque/build",
+  "command": "/usr/bin/clang++   -std=c++23 -Wall -Wextra -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Werror -Wreturn-stack-address -Wunused-lambda-capture -g -o CMakeFiles/deque.dir/test.cpp.o -c /home/kirill/CLionProjects/Deque/test.cpp",
+  "file": "/home/kirill/CLionProjects/Deque/test.cpp",
+  "output": "CMakeFiles/deque.dir/test.cpp.o"
+}
+]

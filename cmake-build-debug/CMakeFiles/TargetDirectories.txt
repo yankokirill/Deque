@@ -1,0 +1,3 @@
+/home/kirill/CLionProjects/Deque/cmake-build-debug/CMakeFiles/deque.dir
+/home/kirill/CLionProjects/Deque/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kirill/CLionProjects/Deque/cmake-build-debug/CMakeFiles/rebuild_cache.dir
